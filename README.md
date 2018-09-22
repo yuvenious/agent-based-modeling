@@ -11,6 +11,7 @@ It tries to explain how the ethnic boundary within a city is formed.
 Plastic Recycling (from scratch)
 ----------------------
 What trade-offs and opportunities exist in plastic recycling policy? Can government simply assign a high target to municipalities? How effective is it?
+
 ![2](https://user-images.githubusercontent.com/37578231/45921660-e67d5200-beb9-11e8-90cc-178fb49c06d6.png) ![3](https://user-images.githubusercontent.com/37578231/45921659-e67d5200-beb9-11e8-9f24-e2eb08bcf5ad.png)
 
 ![4](https://user-images.githubusercontent.com/37578231/45921658-e67d5200-beb9-11e8-9aa5-a1664291060f.png)
