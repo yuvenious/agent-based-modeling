@@ -12,7 +12,7 @@ Plastic Recycling (from scratch)
 ----------------------
 What trade-offs and opportunities exist in plastic recycling policy? Can government simply assign a high target to municipalities? How effective is it?
 
-<img src="https://user-images.githubusercontent.com/37578231/45921660-e67d5200-beb9-11e8-90cc-178fb49c06d6.png"  width="250" height="250"><img src="https://user-images.githubusercontent.com/37578231/45921659-e67d5200-beb9-11e8-9f24-e2eb08bcf5ad.png"  width="250" height="250">
+<img src="https://user-images.githubusercontent.com/37578231/45921660-e67d5200-beb9-11e8-90cc-178fb49c06d6.png"  width="400" height="400"><img src="https://user-images.githubusercontent.com/37578231/45921659-e67d5200-beb9-11e8-9f24-e2eb08bcf5ad.png"  width="400" height="400">
 
 
 
